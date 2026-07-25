@@ -1,4 +1,4 @@
-<h1 align="center">Hi, there's Shima 👋</h1>
+<h1 align="center"></h1>
 <h3 align="center">Backend / Full-Stack Developer</h3>
 
 <p align="center">
@@ -56,28 +56,20 @@
   </a>
 </p>
 
-> 💡 Replace repo1 / repo2 with the names of your actual repositories.
+
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/callmeroxy" target="_blank">
+  <a href="https://t.me/callmeshima" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://instagram.com/callmeroxy" target="_blank">
+  <a href="https://instagram.com/._shima_." target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/callmeroxy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
-
-> 💡 Replace the links above (Telegram, Instagram, LinkedIn, Email) with your real ones.
 
 ---
 
